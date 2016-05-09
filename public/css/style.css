@@ -1,0 +1,30 @@
+.calTable {
+    width:100%;
+}
+
+.calRow {
+   border-top: 1px solid grey;
+}
+
+.calBox {
+    width:12.5%;
+    display:inline-table;
+    min-height: 25px;
+    margin-top: 2px;
+    vertical-align: top;
+}
+
+.calDate {
+    width:7%;
+}
+
+.calItem {
+    text-align:center;
+    background:lightblue;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.calItem:hover {
+    background:cornflowerblue;
+}
