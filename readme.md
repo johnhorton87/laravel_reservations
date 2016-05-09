@@ -1,8 +1,7 @@
 # Laravel Reservation System
 
-[![More Info](http://johnventions.com)
-
 This is a rehearsal space reservation system created as a platform to test the Laravel PHP framework.
+More info at: [www.johnventions.com](http://johnventions.com)
 
 ## Security Vulnerabilities
 
